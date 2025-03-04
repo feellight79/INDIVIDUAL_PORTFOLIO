@@ -1391,7 +1391,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .article-title::after {
-    width: 40px;
+    width: 140px;
     height: 5px;
   }
 
